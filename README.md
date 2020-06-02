@@ -13,12 +13,14 @@ Spread analysis of covid19 disease across the world using public datasets and Po
 2) it may take 2 mins to 5 mins to refresh the data
 3) in case you get error, please wait for 1 minute and try again.
 4) if still does not work, please leave your error and comments. I will try to see the fix the error
+5) Please refer "covid19 powerbi readme.docx" in the repository
 
 # How to build upon it
 1) you can fork the repo, or download the offline copy
 2) All the data and transformations can be access via PowerQuery module (in-build in the PowerBi Desktop app).
-3) you can bring more data from various sources
-4) Please use the lookupvalue function or datamodel to join the new data with existing one.
+3) Please refer "covid19 powerbi readme.docx" in the repository
+4) you can bring more data from various sources
+5) Please use the lookupvalue function or datamodel to join the new data with existing one.
 
 # How to read it
 1) Please refer the attached .docx file, it provides you some idea how I am trying to draw inferences from it.
