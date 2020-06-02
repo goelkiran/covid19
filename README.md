@@ -23,4 +23,4 @@ Spread analysis of covid19 disease across the world using public datasets and Po
 5) Please use the lookupvalue function or datamodel to join the new data with existing one.
 
 # How to read it
-1) Please refer the attached .docx file, it provides you some idea how I am trying to draw inferences from it.
+1) Please refer the attached "covid19 ecdc report.pdf" file, it provides you some idea how I am trying to draw inferences from it.
